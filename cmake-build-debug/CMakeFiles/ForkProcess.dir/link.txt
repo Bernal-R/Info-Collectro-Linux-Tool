@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -lcurl -g   CMakeFiles/ForkProcess.dir/main.c.o  -o ForkProcess -lcurl 

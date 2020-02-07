@@ -1,5 +1,6 @@
 # Info-Collectro-Linux-Tool
 CLI Linux tool for collect info about your system. 
+That work is part of the final proyect os Operative Systems course in Lead University
 
 The tool can mine:
 * CPU

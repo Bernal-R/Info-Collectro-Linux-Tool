@@ -33,7 +33,7 @@ $ chmod +x miner
 ```
 $ miner args
 ```
-The tool expected arguments, that can be:
+The tool expect arguments, that can be:
 
 Argument | Mean
 ------------ | -------------
